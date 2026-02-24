@@ -2,7 +2,7 @@
 Research and data exploration of cardiovascular health markers using Python.
 
 ## Project Overview
-This project performs an Exploratory Data Analysis (EDA) on a clinical dataset of 303 patients to identify correlations between physiological markers—such as Age, Maximum Heart Rate, and Cholesterol, and the presence of Heart Disease (AHD). 
+This project performs an Exploratory Data Analysis (EDA) on a clinical dataset of 303 patients to identify correlations between physiological markers, such as Age, Maximum Heart Rate, and Cholesterol, and the presence of Heart Disease (AHD). 
 
 ## Technical Stack
 - Language: Python 3.x
